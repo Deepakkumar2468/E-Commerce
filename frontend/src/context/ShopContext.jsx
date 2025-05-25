@@ -162,5 +162,5 @@ const ShopContextProvider = (props) => {
         </ShopContext.Provider>
     )
 }
-
+ 
 export default ShopContextProvider;

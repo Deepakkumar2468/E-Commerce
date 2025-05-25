@@ -135,10 +135,10 @@ const verifyStripe = async (req,res) => {
 
 
 
-// Placing orders using Razorpay Method
-const placeOrderRazorpay = async (req, res) => {
+// // Placing orders using Razorpay Method
+// const placeOrderRazorpay = async (req, res) => {
 
-}
+// }
 
 // All orders data for Admin Panel
 const allOrders = async (req, res) => {
