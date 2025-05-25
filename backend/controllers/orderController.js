@@ -184,4 +184,4 @@ const updateStatus = async (req, res) => {
         res.json({success:false,message:error.message})
       }
 }
-export { verifyStripe , placeOrder, placeOrderStripe, placeOrderRazorpay, allOrders, userOrders, updateStatus }
+export { verifyStripe , placeOrder, placeOrderStripe, allOrders, userOrders, updateStatus }
